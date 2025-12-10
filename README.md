@@ -23,5 +23,5 @@ I am a **Flutter Developer** and **UI/UX Designer**. I bridge the gap between de
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical" alt="Your Name" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical" alt="Hossam Khalafallh" />
 </p>
