@@ -21,7 +21,4 @@ I am a **Flutter Developer** and **UI/UX Designer**. I bridge the gap between de
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical" alt="Hossam Khalafallh" />
-</p>
+
