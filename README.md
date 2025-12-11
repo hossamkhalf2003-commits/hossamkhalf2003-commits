@@ -1,36 +1,27 @@
 <div align="center">
- 
- <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Flutter%20Developer%20%26%20Designer&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Building%20Beautiful%20Experiences&descAlignY=55&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Hello%20World&fontSize=80&fontColor=ffffff" width="100%"/>
+  </div>
 
- <br/>
+### 👋 About Me
+I am a **Flutter Developer** and **UI/UX Designer**. I bridge the gap between design and code, building pixel-perfect applications that work as well as they look.
 
- <h3>
-  I bridge the gap between design and code, building pixel-perfect applications that work as well as they look.
- </h3>
+- 🔭 I’m currently working on: Gym Companion
+- 📱 I build mobile apps with: **Flutter & Dart**
+- 🎨 I design interfaces with: **Figma & Adobe XD**
+- 💻 I build web front-ends with: **HTML, CSS, Vue.js/React**
 
- 🔭 Currently working on: <b>Gym Companion</b>
+---
 
- <br/>
- 
- <h3>🛠️ The Arsenal</h3>
- <p>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD">
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" alt="Vue">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React">
- </p>
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
- <br/>
-
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=radical&hide_border=true" alt="Streak" />
-
- <br/>
- <br/>
- 
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME_HERE&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
- </a>
-
-</div>
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical" alt="Hossam Khalafallh" />
+</p>
