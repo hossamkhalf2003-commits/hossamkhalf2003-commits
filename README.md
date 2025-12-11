@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Hello%20World&fontSize=80&fontColor=ffffff" width="100%"/>
   </div>
 
-### 👋 About Me
+###  About Me 
 I am a **Flutter Developer** and **UI/UX Designer**. I bridge the gap between design and code, building pixel-perfect applications that work as well as they look.
 
-- 🔭 I’m currently working on: Gym Companion
-- 📱 I build mobile apps with: **Flutter & Dart**
-- 🎨 I design interfaces with: **Figma & Adobe XD**
-- 💻 I build web front-ends with: **HTML, CSS, Vue.js/React**
+-  I’m currently working on: Gym Companion (Mobile App)
+-  I build mobile apps with: **Flutter & Dart**
+-  I design interfaces with: **Figma & Adobe XD**
+-  I build web front-ends with: **HTML, CSS, Vue.js/React**
 
 ---
 
