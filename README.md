@@ -3,7 +3,7 @@
   </div>
 
 ###  About Me 
-I am a **Flutter Developer**.
+I am a **Mobile App Developer**.
 
 -  I’m currently working on: Gym Companion (Mobile App)
 -  I build mobile apps with: **Flutter & Dart**
