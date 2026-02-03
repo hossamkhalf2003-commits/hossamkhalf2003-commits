@@ -3,11 +3,10 @@
   </div>
 
 ###  About Me 
-I am a **Flutter Developer** and **UI/UX Designer**. I bridge the gap between design and code, building pixel-perfect applications that work as well as they look.
+I am a **Flutter Developer**.
 
 -  I’m currently working on: Gym Companion (Mobile App)
 -  I build mobile apps with: **Flutter & Dart**
--  I design interfaces with: **Figma & Adobe XD**
 -  I build web front-ends with: **HTML, CSS, Vue.js/React**
 
 ---
